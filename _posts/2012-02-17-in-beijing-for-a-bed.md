@@ -1,6 +1,6 @@
 ---
 id: 1453
-title: @北京，求住宿
+title: 北京，求住宿
 date: 2012-02-17T16:26:46+00:00
 author: tanglei
 layout: post
